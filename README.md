@@ -1,2 +1,1 @@
-# Cox-Ross-Rubintein-formula
-Pricing of call option using Cox-Ross-Rubintein formula
+Generally, price of call option is determined by using portfolio replication method. However, in this project we derive the price of a call option directly by using Cox-Ross-Rubintein formula instead of working backwards from last time period time $= T$ to time $= 0$. 
